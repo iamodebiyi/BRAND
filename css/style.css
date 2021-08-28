@@ -38,7 +38,11 @@ body{
 
 /* NAVIGATION */
 
-.navbar {
+
+
+
+
+/*.navbar {
     display: grid;
     grid-template-columns: 1fr 3fr;
     align-items: center;
@@ -71,7 +75,7 @@ body{
 
 .nav-item a:hover {
     color: #3498db;
-}
+}*/
 
 /* HEADINGS */
 
