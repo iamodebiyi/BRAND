@@ -1,0 +1,19 @@
+h1{
+    color: aliceblue;
+}
+
+#title{
+    background-color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-dark{
+    background-color: #00fff0;
+
+}
