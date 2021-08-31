@@ -21,6 +21,7 @@ h1{
 
 .container-fluid{
     padding: 3% 15%;
+    margin-bottom: 300px;
 }
 
 /* NAVBAR */
@@ -38,16 +39,16 @@ h1{
 }
 
 .navbar-brand{
-    font-family: 'ZCOOL KuaiLe', cursive;
+    /* font-family: 'ZCOOL KuaiLe', cursive; */
+    font-family: 'Damion', cursive;
     font-weight: bold;
     font-size: 1.7rem;
 }
 
 /* TITLE-IMG */
 .title-img{
-    width: 20%;
-    height: 300px;
-    width: 300px;
+    width: 80%;
+    float: right;
 }
 
 /* DOWNLOAD-BUTTONS */
