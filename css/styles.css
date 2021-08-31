@@ -85,6 +85,11 @@ h1{
 .feature-txt{
     padding: 0 10px;
 }
+
+.feature-h3{
+    font-weight: bold;
+}
+
 /* #### DEV-NOTES #### */
 /*  
     # adjust download button hover 
