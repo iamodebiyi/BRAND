@@ -55,16 +55,8 @@ h1{
     border-color: #00fff0;
 }
 
-.fa-shipping-fast:hover {
-    color: crimson;
-}
-
-.fa-bullseye:hover {
-    color: crimson;
-}
-
-.fa-heartbeat:hover {
-    color: crimson;
+.btn-outline-danger:hover{
+    background-color: grey;
 }
 
 /* TITLE-IMG */
@@ -84,6 +76,11 @@ h1{
     color: #000;
     text-align: center;
     padding: 0 5px;
+    margin-bottom: 30px;
+}
+
+.features-ico:hover{
+    color: #a51b3791;
 }
 
 .feature-container{
@@ -96,6 +93,7 @@ h1{
 
 .feature-txt{
     padding: 0 10px;
+    line-height: 1.5rem;
 }
 
 .feature-h3{
