@@ -55,6 +55,18 @@ h1{
     border-color: #00fff0;
 }
 
+.fa-shipping-fast:hover {
+    color: crimson;
+}
+
+.fa-bullseye:hover {
+    color: crimson;
+}
+
+.fa-heartbeat:hover {
+    color: crimson;
+}
+
 /* TITLE-IMG */
 .title-img{
     width: 80%;
@@ -89,6 +101,7 @@ h1{
 .feature-h3{
     font-weight: bold;
 }
+
 
 /* #### DEV-NOTES #### */
 /*  
